@@ -1,20 +1,53 @@
-# Hello 👋🏾 👩🏾‍💻
+### <h2>नमस्ते (Namaste)🙏🏻, I'm Nitish!
+  </br>
 
-Hi, I'm Ahmad Inc.! I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
+<img align="left"  src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Nitish Awasthi" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
+</br></br></br>
+### Here are some ideas to get you started:</br>
+- 🔭 I’m currently more into the **Programming**
+- 🌱 I’m currently learning **Open Source Contribution.**
+- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
+- 🤔 I’m looking for help with **again Open Source. This is really fun.**
+- 💬 Ask me about **Technology, Aviation, Troubleshooting, Psychology, Neuroscience, History, Nature.**
+- ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
 
-### 📫 Reach me
-[![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Acontact.ismailhabibi%40gmail.com)](mailto:contact.ismailhabibi@gmail.com)
-[![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fismailhabibi)](https://linkedin.com/in/ismailhabibi)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ismlhbb?style=social)](https://twitter.com/intent/follow?screen_name=ismlhbb)
-[![Twitter URL](https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Ffacebook.com%2Fismlhbb)](https://facebook.com/ismlhbb)
-[![Twitter URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fismlhbb)](https://instagram.com/ismlhbb)
-[![Twitter URL](https://img.shields.io/twitter/url?label=Line&logo=Line&style=social&url=http%3A%2F%2Fline.me%2Fti%2Fp%2F~ismlhbb)](http://line.me/ti/p/~ismlhbb)
-[![Twitter URL](https://img.shields.io/twitter/url?label=Steam&logo=steam&style=social&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fismlhbb)](https://steamcommunity.com/id/ismlhbb)
-[![Twitter URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fismlhbb)](https://t.me/ismlhbb)
-[![Twitter URL](https://img.shields.io/twitter/url?label=letterboxd&logo=Letterboxd&style=social&url=https%3A%2F%2Fletterboxd.com%2Fismlhbb)](https://letterboxd.com/ismlhbb)
-[![Twitter URL](https://img.shields.io/twitter/url?label=DeviantArt&logo=deviantart&logoColor=black&style=social&url=https%3A%2F%2Fdeviantart.com%2Fismlhbb)](https://deviantart.com/ismlhbb)
-[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/sinner98?style=social)](https://reddit.com/u/sinner98)
+# *I am willing to collaborate as a team player building better code.*
+
+### Hit this over the terminal or console, to know more about me.
+```
+npx nitish
+```
+
+### I know more about- </br>
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+
+### Some of the technologies I have worked with-</br>
+![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
+![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
+![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
+![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+</br></br></br></br>
 
 
----
-⭐️ From [Ahmad Inc.](github.com/ahmadabbainc/ahmadabbainc)
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+
+  <p align="center">
+    <a href="https://twitter.com/Ahmad_Inc_" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
+    <a href="https://www.linkedin.com/in/ahmad-inc-442167245"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+  <a href="https:/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
+  <a href="https://www.instagram.com/ahmad_inc_official" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
+  <a href="https://dev.to/ahmadabbainc" alt="dev.to"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/download.png" height="30" width="30"></a>
+  <a href="" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p>
+
+⭐️ From [Ahmad Inc.](https://github.com/ahmadabbainc)
