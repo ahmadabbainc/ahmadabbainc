@@ -7,6 +7,6 @@ I'm a Web Developer who is passionate about writing code, solving problems, auto
 - 🔭 I’m currently a CS student at Meta.
 - 📚 I’m currently learning  Frontend web development using React, Anguler, And Vue.
 - 👯 I’m looking for a software development internship/Job. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ahmad-inc-442167245) [Gmail](mailto:ahmedabbainc@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ahmad-inc-442167245) [portfolio](https://ahmadinc.vercel.app/) [Gmail](mailto:ahmedabbainc@gmail.com)
 
 ⭐️ From [Ahmad Inc.](https://github.com/ahmadabbainc)
